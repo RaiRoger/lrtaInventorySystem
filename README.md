@@ -1,0 +1,4 @@
+lrtaInventorySystem
+===================
+
+barcode
